@@ -1,0 +1,6 @@
+{
+  "prompt": "Close-up editorial photograph in a high-end tailor's atelier. Two tailor's dummies side by side. The LEFT dummy wears a bespoke suit jacket that fits it with obsessive perfection — covered in excessive hand-stitched darts, custom seams, and elaborate tucks tracking every curve. The RIGHT dummy is slightly different in shape — and the SAME jacket on it is visibly catastrophic. The fabric pulls dramatically, seams pucker and distort, the shoulders are completely wrong, the front panels gap open. The misfit is immediate and stark. Warm golden window light from the left. Photorealistic, editorial fashion photography, shallow depth of field. No text, no words, no letters, no labels anywhere in the image, no diagrams, no annotations, no non-physical elements.",
+  "model": "DALL-E 3",
+  "concept": "overfitting",
+  "metaphor": "A jacket stitched with obsessive precision for one mannequin fits it perfectly but fails visibly on a slightly different one — excess specificity causes failure to generalise."
+}
